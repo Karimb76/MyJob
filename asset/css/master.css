@@ -1,4 +1,4 @@
-main .row{
+main > .row{
   min-height: 500px;
 }
 
