@@ -1,12 +1,14 @@
-{
+[
+  {
   "id": 1,
   "type": "service",
-  "categorie": "epilation",
+  "categorie": "soin visage",
   "titre": "epilation du mallot",
   "prix": "xx,xx",
   "image": "image.png",
-  "descriptif": "textes ..."
-}
+  "descriptif": "textes ...",
+  "temps": "xhxmin"
+},
 {
   "id": 2,
   "type": "produit",
@@ -15,7 +17,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 3,
   "type": "produit",
@@ -24,7 +26,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 4,
   "type": "produit",
@@ -33,7 +35,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 5,
   "type": "produit",
@@ -42,7 +44,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 6,
   "type": "produit",
@@ -51,7 +53,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 8,
   "type": "produit",
@@ -60,7 +62,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 9,
   "type": "produit",
@@ -69,7 +71,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 10,
   "type": "produit",
@@ -78,7 +80,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 11,
   "type": "produit",
@@ -87,7 +89,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 12,
   "type": "produit",
@@ -96,7 +98,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 13,
   "type": "produit",
@@ -105,7 +107,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 14,
   "type": "produit",
@@ -114,7 +116,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 15,
   "type": "produit",
@@ -123,7 +125,7 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
 {
   "id": 16,
   "type": "produit",
@@ -132,4 +134,32 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-}
+},
+{
+  "id": 17,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+},
+{
+  "id": 16,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+},
+{
+  "id": 16,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+  }
+]
