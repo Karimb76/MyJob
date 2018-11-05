@@ -1,8 +1,135 @@
-[
-id
-categorie
-titre
-prix
-image
-descriptif
-]
+{
+  "id": 1,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 2,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 3,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 4,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 5,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 6,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 8,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 9,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 10,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 11,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 12,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 13,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 14,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 15,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
+{
+  "id": 16,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+}
