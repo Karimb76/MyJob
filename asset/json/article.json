@@ -3,140 +3,379 @@
   "id": 1,
   "type": "service",
   "categorie": "soin visage",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "titre": "soin précieux",
+  "prix": "70,00",
   "image": "image.png",
-  "descriptif": "textes ...",
-  "temps": "xhxmin"
+  "descriptif": "Prolongez la jeunesse de votre peau avec le SOIN PRÉCIEUX, spécifiquement conçu pour contrôler les premiers signes de l'âge. La pose du Masque Raffermissant à la Spiruline accélère le renouvellement des cellules, tonifie les tissus et prévient l'apparition des rides.",
+  "temps": "1h15"
 },
 {
   "id": 2,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin lumière",
+  "prix": "65,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Ne laissez pas agir les signes du temps et offrez à votre peau le SOIN LUMIÈRE, qui va stimuler les capacités anti-âge naturelles de la peau. La pose du Masque Oxygénant aux Huiles Fluorées stimule la respiration cellulaire, régénère et tonifie la peau.",
+  "temps": "1h"
 },
 {
   "id": 3,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin divin",
+  "prix": "80,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Offrez-vous l'excellence de l'anti-âge avec le SOIN DIVIN, spécifiquement conçu pour prendre soin des peaux matures, ridées, qui manquent de fermeté et de densité. Le modelage et la pose du Masque Oxygénant aux Huiles Fluorées allient les actions restructurantes, revitalisantes et raffermissantes pour une peau nourrie en profondeur.",
+  "temps": "1h15"
 },
 {
   "id": 4,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin douceur",
+  "prix": "65,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Offrez-vous une pause cocoon avec le SOIN DOUCEUR spécifiquement conçu pour prendre soin des peaux sèches et sensibles. Ce soin allie l'efficacité d'un masque Avocat Coton, doté de propriétés réparatrices et adoucissantes, au plaisir d'un modelage à base de beurres végétaux nourrissants.",
+  "temps": "1h"
 },
 {
   "id": 5,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin hydratant fondamental",
+  "prix": "65,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Accordez-vous ce moment de détente et de bien-être avec le SOIN HYDRATANT FONDAMENTAL qui a été spécifiquement conçu pour les peaux déshydratées, qui manquent d'éclat et de confort. La pose du Masque Hydratant gorgé d'Aquaporines plonge votre peau dans un véritable bain de fraîcheur.",
+  "temps": "1h"
 },
 {
   "id": 6,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin coup d'éclat survitaminé",
+  "prix": "60,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Laissez-vous surprendre par le SOIN COUP D'ÉCLAT SURVITAMINÉ qui offre une parfaite remise en forme à votre peau. Enrichi en Vitamine C, le Masque Modelant hyper vitaminé redonne de l'énergie aux peaux ternes et stressées.",
+  "temps": "1h"
+},
+{
+  "id": 7,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin myperferct",
+  "prix": "50,00",
+  "image": "image.png",
+  "descriptif": "Laissez-vous séduire par les bienfaits du SOIN myPERFECT, spécifiquement conçu pour prendre soin des peaux à imperfections : brillance, grain de peau irrégulier, pores dilatés, points noirs...
+La pose du Masque Perfecteur à l’Huile Essentielle de Tea Tree affinant et régulateur de sébum procure une véritable sensation de fraîcheur grâce au Menthol.",
+  "temps": "1h"
 },
 {
   "id": 8,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "Anti-âge CRYO-RESTRUCTUREL",
+  "prix": "90,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Profitez d'un soin unique et exclusif, hautement performant, avec le Programme Anti-âge CRYO RESTRUCTUREL. Véritable solution anti-âge alternative au Botox ou à la chirurgie esthétique, ce soin retarde le vieillissement de la peau.
+Du simple coup d'éclat au lifting biologique en passant par un anti-âge profond, l'association exceptionnelle de l'ADN hp et de l'Acide Hyaluronique (récompensée par le CNRS et l'ANVAR) diminue les rides profondes et lisse le grain de peau.",
+  "temps": "1h"
 },
 {
   "id": 9,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin éclaircissant",
+  "prix": "60,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Découvrez les bienfaits du Soin Éclaircissant qui a été spécifiquement conçu pour prendre soin des peaux ternes et pigmentées. Les actifs du programme anti-taches freinent la production de mélanine et ont une action ciblée sur les taches.",
+  "temps": "1h"
 },
 {
   "id": 10,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin minceur aux algues",
+  "prix": "80,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Profitez des bienfaits du SOIN MINCEUR AUX ALGUES, véritable soin minceur sur mesure aux différents modelages à la fois fermes et énergiques. Les algues laminaires enveloppe le corps pour l'embellir tout en apportant un véritable moment de relaxation.
+Ce protocole minceur va stimuler la microcirculation et déstocker les graisses permettant à votre corps de retrouver minceur et légèreté.",
+  "temps": "1h30"
 },
 {
   "id": 11,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin aux pierres chaudes",
   "prix": "xx,xx",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Vivez une expérience naturelle et authentique avec le SOIN AUX PIERRES CHAUDES. Votre esthéticienne façonnera des pierres exclusivesadaptées à vos envies pour un véritable moment de détente. Votre corps s'abandonne à des sensations uniques où la chaleur des pierres va se propager doucement le long de votre corps et vous procurer une sensation de bien-être et de relâchement total.",
+  "temps": "1h"
 },
 {
   "id": 12,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin du buste",
+  "prix": "45,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Révélez la beauté du buste, symbole de votre féminité en lui apportant un soin attentif pour le tonifier et le galber.
+Le modelage raffermissant suivi de la pose d'un enveloppement aux algues riche en minéraux, tonifie, régénère et stimule les tissus de soutien.",
+  "temps": "1h"
 },
 {
   "id": 13,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin dos parfait",
+  "prix": "50,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Un gommage, un modelage relaxant et un masque clarifiant, appliqué tour à tour sur le dos, pour retrouver une peau nette et sans imperfections et dénouer les tensions.",
+  "temps": "1h"
 },
 {
   "id": 14,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin jambes légères",
+  "prix": "45,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Ce soin ciblé jambes légères combine nos accors aux huiles essentielles pour une expérience sur-mesure : relancent les circulations lymphatiques et circulatoires pour alléger et soulager les jambes.",
+  "temps": "0h45"
 },
 {
   "id": 15,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin rituel exfoliant",
+  "prix": "60,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Ce rituel gomme toutes les traces de fatigue et débarrasse la peau des cellules mortes, en douceur, grâce à des gestuelles enveloppantes et exfoliantes. Pour un moment de détente optimal, le rituel d'exfoliation peut être suivi d'un modelage corps DECLEOR.",
+  "temps": "1h30"
 },
 {
   "id": 16,
-  "type": "produit",
-  "categorie": "programme",
-  "titre": "epilation du mallot",
-  "prix": "xx,xx",
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin polynesien au Monoï",
+  "prix": "55,00",
   "image": "image.png",
-  "descriptif": "textes ..."
+  "descriptif": "Laissez-vous aller entre nos mains, lors d’un voyage des sens à l’huile de Monoï. Secret de beauté des vahinés, le Monoï est extrait des fleurs de Tiaré, emblèmes de Tahiti. Ce modelage inspiré de la tradition ancestrale polynésienne permet à l’ensemble de votre corps de retrouver son harmonie. De longs mouvements des mains et des avant-bras, au rythme du va-et-vient des vagues, chassent les toxines et libèrent les tensions. Votre corps et votre esprit sont apaisés. Vous repartez avec la peau soyeuse et parfumée du divin sillage des fleurs de Tahiti.",
+  "temps": "1h00"
 },
 {
   "id": 17,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin minceur au Mangoustan",
+  "prix": "55,00",
+  "image": "image.png",
+  "descriptif": "Pour commencer, un gommage et un drainage stimulant activent votre microcirculation et préparent votre peau à recevoir le au Mangoustan. Notre esthéticienne procède alors à un modelage manuel qui alterne palper-rouler, pétrissages et lissages en ciblant les zones rebelles des cuisses, des fesses et du ventre. Le protocole s'achève par un enveloppement enrichi en Caféine qui parfait l'efficaicté affinante du soin",
+  "temps": "1h00"
+},
+{
+  "id": 18,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin oriental aux Huiles d’Argan & de Rose",
+  "prix": "55,00",
+  "image": "image.png",
+  "descriptif": "Vous lâchez prise dès le gommage délicat au gant exfoliant, qui alterne lissages et effleurages. Notre esthéticienne applique ensuite l’onctueuse huile Orientale à base d’huile d’Argan sur l’ensemble de votre corps et grâce à sa gestuelle précise libère l’ensemble des tensions.",
+  "temps": "1h00"
+},
+{
+  "id": 19,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "évasion africaine au Karité & Graines Chaudes d’Entada",
+  "prix": "55,00",
+  "image": "image.png",
+  "descriptif": "Laissez-vous emporter jusqu’en Afrique lors d’un voyage sensoriel aux parfums suaves et gourmands. Secret de beauté des femmes africaines, le beurre de Karité chauffé devient une huile tiède nourrissante qui enveloppe votre corps dans une infinie douceur. Les graines d’Entada, considérées comme porte-bonheur en Afrique, sont ensuite glissées tout le long de votre corps, délivrant leur douce chaleur bienfaisante. Par de lents mouvements, notre esthéticienne esquisse des sillons tièdes au creux de vos reins, sur vos bras, vos mains, votre nuque... Véritable source d’évasion pour votre corps et votre esprit, la chaleur de ce soin favorise le relâchement des tensions. Ce rituel vous fait découvrir des sensations inédites.",
+  "temps": "1h00"
+},
+{
+  "id": 20,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation demi-jambes",
+  "prix": "20,00",
+  "image": "image.png",
+  "descriptif": "Epilation demi-jambes pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 21,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation jambes entières",
+  "prix": "26,00",
+  "image": "image.png",
+  "descriptif": "Epilation demi-jambes pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 22,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation aisselles",
+  "prix": "10,00",
+  "image": "image.png",
+  "descriptif": "epilation aisselles pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 23,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation du maillot brésilien",
+  "prix": "15,00",
+  "image": "image.png",
+  "descriptif": "epilation du maillot façon brésilienne pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 24,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation intégralle",
+  "prix": "26,00",
+  "image": "image.png",
+  "descriptif": "epilation intégralle pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 25,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation bras",
+  "prix": "15,00",
+  "image": "image.png",
+  "descriptif": "epilation bras pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 26,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation sourcils",
+  "prix": "10,00",
+  "image": "image.png",
+  "descriptif": "epilation sourcils pour un visage radieux pendant plusieurs semaines."
+},
+{
+  "id": 27,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation lèvres et/ou menton",
+  "prix": "10,00",
+  "image": "image.png",
+  "descriptif": "epilation lèvres pour une peau lisse et soyeuse et un visage radieux pendant plusieurs semaines."
+},
+{
+  "id": 28,
+  "type": "service",
+  "categorie": "maquillage",
+  "titre": "maquillage jour",
+  "prix": "15,00",
+  "image": "image.png",
+  "descriptif": "Envie d’un conseil personnalisé pour vous maquiller au quotidien ? Cette prestation vous dévoilera comment unifier et magnifier votre teint, appliquer les couleurs qui mettent vos yeux et vos Lèvres en valeur et toutes les astuces pour être belle et rayonnante."
+},
+{
+  "id": 29,
+  "type": "service",
+  "categorie": "maquillage",
+  "titre": "maquillage soirée",
+  "prix": "18,00",
+  "image": "image.png",
+  "descriptif": "Pour une soirée exceptionnelle, un rendez-vous important, faites confiance à nos esthéticiennes pour un maquillage personnalisé. Par leur écoute et leur savoir-faire, elles sauront sublimer votre beauté. Naturel ou sophistiqué, ce maquillage sera la touche finale de votre élégance."
+},
+{
+  "id": 30,
+  "type": "service",
+  "categorie": "maquillage",
+  "titre": "maquillage mariage",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "Laissez-vous aller entre les mains bienveillantes de notre esthéticienne, assurée d'avoir un maquillage parfait pour cette journée unique. Couleurs, textures, effets seront travaillés pour être en harmonie avec votre tenue et votre coiffure. Vous serez la plus belle pour dire 'Oui !'"
+},
+{
+  "id": 31,
+  "type": "service",
+  "categorie": "maquillage",
+  "titre": "maquillage sophistiqué",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "Maquillage intense et travaillé. L'intensité est mise soit sur les yeux, soit sur les lèvres, et le teint est sublimé."
+},
+{
+  "id": 32,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "manucure express",
+  "prix": "27,00",
+  "image": "image.png",
+  "descriptif": "Couper, limer, repousser les cuticules, polir les ongles si besoin, application de crème mains et pose de base transparente."
+},
+{
+  "id": 33,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "manucure complète",
+  "prix": "32,00",
+  "image": "image.png",
+  "descriptif": "Couper, limer, repousser les cuticules, polir les ongles si besoin, application de crème, modelage des mains, pose de vernis."
+},
+{
+  "id": 34,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "pose de vernis main et pied",
+  "prix": "12,00",
+  "image": "image.png",
+  "descriptif": "Limage + polissage + pose de vernis sur mains et pieds."
+},
+{
+  "id": 35,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "Pose de French manucure main et pied",
+  "prix": "16,00",
+  "image": "image.png",
+  "descriptif": "Limer, polir les ongles si besoin, pose de french."
+},
+{
+  "id": 36,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "beauté des pieds",
+  "prix": "35,00",
+  "image": "image.png",
+  "descriptif": "Couper, limer, repousser les cuticules, polir les ongles si besoin, application de crème, modelage des pieds, pose de vernis."
+},
+{
+  "id": 37,
+  "type": "service",
+  "categorie": "cils",
+  "titre": " teinture des cils et sourcils",
+  "prix": "20,00",
+  "image": "image.png",
+  "descriptif": "La teinture des cils ou des sourcils consiste à colorer les poils de manière temporaire, entre 3 semaines à 4 semaines, afin de faire ressortir leur couleur sans utiliser de maquillage."
+},
+{
+  "id": 38,
+  "type": "service",
+  "categorie": "cils",
+  "titre": " permanente et réhaussement de cils",
+  "prix": "50,00",
+  "image": "image.png",
+  "descriptif": "La permanente des cils est une technique qui vise à donner une jolie courbure aux cils pour ouvrir le regard tout en gardant un aspect naturel.
+Votre regard est sublimé pour environ 2 et 3 mois."
+},
+{
+  "id": 16,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+},
+{
+  "id": 16,
   "type": "produit",
   "categorie": "programme",
   "titre": "epilation du mallot",
@@ -161,5 +400,41 @@
   "prix": "xx,xx",
   "image": "image.png",
   "descriptif": "textes ..."
-  }
+},
+{
+  "id": 16,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+},
+{
+  "id": 16,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+},
+{
+  "id": 16,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+},
+{
+  "id": 16,
+  "type": "produit",
+  "categorie": "programme",
+  "titre": "epilation du mallot",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "textes ..."
+},
 ]
