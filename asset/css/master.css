@@ -1,0 +1,7 @@
+main .row{
+  min-height: 500px;
+}
+
+.container-fluid > div {
+  border: 1px solid #000;
+}
