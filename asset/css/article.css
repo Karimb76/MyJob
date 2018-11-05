@@ -1,0 +1,112 @@
+@media screen and (max-width: 600px) {
+  table caption {
+    font-size: 1.3em;
+  }
+
+  table thead {
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+
+  table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+.responsive-img-products {
+  max-width: 100%;
+  height:150px;
+}
+
+.productTitle {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.rem10 {
+  font-size: 1rem;
+}
+
+.rem13 {
+  font-size : 1.4rem;
+}
+
+.rem20 {
+  font-size : 2rem;
+}
+
+span.badge {
+  border-radius : 10px;
+}
+
+.btn:hover {
+  color:#fff;
+}
+
+a > i.fab {
+  transition: 0.3s;
+}
+
+a > i.fab:hover {
+  color:#fff;
+}
+
+input[type="text"]:not(.browser-default):disabled {
+  border-bottom: 1px dotted #91a0bc;
+}
+
+input[type="text"]:not(.browser-default):disabled + label {
+  color : #91a0bc;
+}
+
+input[type="email"]:not(.browser-default):disabled {
+  border-bottom: 1px dotted #91a0bc;
+}
+
+input[type="email"]:not(.browser-default):disabled + label {
+  color : #91a0bc;
+}
+
+.pb-7 {
+  padding-bottom:7px;
+}
+
+@media all and (max-width:1232px) {
+  .hide-on-med-and-down {
+    display : none;
+  }
+
+  .hide-on-med-and-up {
+    display : block;
+  }
+}
+
+.mb-10 {
+  margin-bottom:10px;
+}
