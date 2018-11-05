@@ -8,111 +8,7 @@
   <meta name="description" content="Institu de beauté - Le havre. Vous propose des soins du visage et du corp. " />
   <link rel="stylesheet" href="asset/css/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="asset/css/master.css">
-  <style media="screen">
-  #exampleModal .modal-dialog {
-  width: 100%;
-  min-width: 240px;
-}
-.modal-title {
-  color: #FFF;
-}
-
-.panier-vide-non-vide {
-display: none;
-}
-
-/* modification des couleurs */
-.modal-content {
-  background-color: #1c314c;
-  color: white;
-  font-family: 'Montserrat', sans-serif;
-}
-
-.modal-content a {
-color: white;
-}
-
-.modal-content .titre {
-font-size: 1.3rem;
-/* font-family: 'Montserrat', sans-serif; */
-white-space: -3px;
-}
-
-.modal-content .price {
-font-weight: bold;
-color: #2AA0C0;
-}
-
-.modal-content .idProduit {
-font-size: 1.3rem;
-}
-
-.modal-content .price {
-font-size: 1.3rem;
-text-shadow: 0 0 10px black;
-}
-
-.modal-content .supprimerProduit {
-font-size: 1rem;
-text-shadow: 0 0 10px black;
-}
-
-.modal-content .btn-primary {
-  color: #fff;
-  background-color: #060606;
-  border-color: #4187FF;
-}
-
-.modal-content .idProduit {
-  font-size: 1.3rem;
-  width: 31px;
-  min-width: 0px;
-  margin-right: 1px;
-  padding-right: 1px;
-}
-
-.modal-content .col-1 {
-  -ms-flex: 0 0 8.333333%;
-  flex: none;
-  max-width: 8.333333%;
-}
-
-.buttonMoinQtPanier{
-border-bottom-left-radius: 100px;
-border-top-left-radius: 100px;
-margin-right: -6px;
-display: inline;
-width: 17px;
-height: 28px;
-padding: 0;
-border-width: 0;
-}
-
-.buttonPlusQtPanier {
-border-bottom-right-radius: 100px;
-border-top-right-radius: 100px;
-margin-left: -5px;
-display: inline;
-width: 17px;
-height: 28px;
-padding: 0;
-border-width: 0;
-}
-
-.modal-header {
-  border-bottom: 1px solid #005DFF;;
-}
-
-.modal-footer {
-  border-top: 1px solid #005DFF;;
-}
-
-@media (min-width: 576px) {
-  #exampleModal .modal-dialog {
-      max-width: 70%;
-  }
-}
-  </style>
+  <link rel="stylesheet" href="asset/css/panier.css">
 </head>
 <body ng-app="myApp">
   <header class="container-fluid">
@@ -154,7 +50,7 @@ border-width: 0;
                 </button>
               </div>
               <div class="modal-body">
-                <div class="row produitPanier" ng-repeat="itemArticle in articles"  data-id-panier="{{itemArticle.idProduit}}">
+                <div class="row produitPanier" ng-repeat="itemArticle in panier"  data-id-panier="{{itemArticle.idProduit}}">
                   <div class="col-1 idProduit">
                     {{itemArticle.idProduit}}
                   </div>
