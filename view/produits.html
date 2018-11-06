@@ -1,4 +1,4 @@
-<div class="row" ng-controller="prodCtrl">
+<div id="produits" class="row" ng-controller="prodCtrl">
   <div class="col-lg-4"> <!-- col de navigation -->
     <div class="row">
       <ul ng-repeat="article in articles | filter:{'type': 'produit'}" ng-if="!noDuplicate(article.categorie)">
@@ -9,10 +9,10 @@
   <div class="col-lg-8"> <!-- col de navigation -->
     <div class="row"> <!-- debut row col 8 -->
       <ul ng-repeat="article in articles | filter:{'type': 'produit'} | filter:{'categorie': cat}">
-        <li>{{article.categorie}}</li>
+        <li><a href="#!/produit/{{article.id}}">{{article.titre}}</a></li>
         <li><img src="asset/image/{{article.image}}" /></li>
-        <li><a href="#!/produit/{{article.id}}">{{article.titre}}</a> - {{article.descriptif}}</li>
-        <li>{{article.prix}}</li>
+        <li>{{article.categorie}} - {{article.descriptif}}</li>
+        <li>{{article.prix}} {{article.temps}}</li>
       </ul>
     </div>
   </div><!-- fin row col 8 -->

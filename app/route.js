@@ -7,8 +7,8 @@ app.config(function($routeProvider) {
         controller : "prodCtrl"
     })
     // navbar master
-    .when("/service", {
-        templateUrl : "view/service.html",
+    .when("/services", {
+        templateUrl : "view/services.html",
         controller : "prodCtrl"
     })
     // navbar left
@@ -24,8 +24,12 @@ app.config(function($routeProvider) {
         templateUrl : "view/produit.html",
         controller : "prodCtrl"
     })
-    .when("/service/:cat", {
+    .when("/service/:id", {
         templateUrl : "view/service.html",
+        controller : "prodCtrl"
+    })
+    .when("/services/:cat", {
+        templateUrl : "view/services.html",
         controller : "prodCtrl"
     });
 });

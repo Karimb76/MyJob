@@ -8,6 +8,9 @@
  color: #1b51b5;
 }
 
+.black-text {
+color: black; 
+}
 .backcolor {
   background-color: #30ace7;
   color: #ffffff;
@@ -29,7 +32,7 @@
   color: #ffffff;
 }
 
-li  a {
+.liafooter {
   color: white;
 }
 
@@ -53,17 +56,12 @@ li  a {
   background-color: #ffffff;
 }
 
-hr {
-	display: block;
-	margin-left: 400px;
-  margin-right: 400px;
-}
-
 /*Mise en forme paragraphe*/
 .ptext {
   text-align: left;
   font-size: 0.65rem;
   margin-bottom: 0;
+  text-align: center;
 }
 
 /* Item réseaux sociaux */
@@ -72,5 +70,7 @@ hr {
   width: 3rem;
 }
 /* Fin item réseaux sociaux */
-
+.red-text {
+  color: red;
+}
 /*FIN FOOTER CSS*/

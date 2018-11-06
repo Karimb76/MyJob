@@ -9,10 +9,10 @@
   <div class="col-lg-8"> <!-- col de navigation -->
     <div class="row"> <!-- debut row col 8 -->
       <ul ng-repeat="article in articles | filter:{'id': id}">
-        <li>{{article.categorie}}</li>
+        <li>{{article.titre}}</li>
         <li><img src="asset/image/{{article.image}}" /></li>
-        <li>{{article.titre}} - {{article.descriptif}}</li>
-        <li>{{article.prix}}</li>
+        <li>{{article.categorie}} - {{article.descriptif}}</li>
+        <li>{{article.prix}} {{article.temps}}</li>
       </ul>
     </div>
   </div><!-- fin row col 8 -->

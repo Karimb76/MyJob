@@ -1,0 +1,19 @@
+<div id="services "class="row" ng-controller="prodCtrl">
+  <div class="col-lg-4"> <!-- col de navigation -->
+    <div class="row">
+      <ul ng-repeat="article in articles | filter:{'type': 'service'}" ng-if="!noDuplicate(article.categorie)">
+        <li><a href="#!/services/{{article.categorie}}">{{article.categorie}}</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="col-lg-8"> <!-- col de navigation -->
+    <div class="row" ng-controller="prodCtrl"> <!-- debut row col 8 -->
+      <ul ng-repeat="article in articles | filter:{'type': 'service'}  | filter:{'categorie': cat}">
+        <li><a href="#!/service/{{article.id}}">{{article.titre}}</a></li>
+        <li><img src="asset/image/{{article.image}}" /></li>
+        <li>{{article.categorie}} - {{article.descriptif}}</li>
+        <li>{{article.prix}} {{article.temps}}</li>
+      </ul>
+    </div>
+  </div><!-- fin row col 8 -->
+</div> <!-- fin premier row -->
