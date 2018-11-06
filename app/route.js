@@ -10,6 +10,10 @@ app.config(function($routeProvider) {
         templateUrl : "view/service.html",
         controller : "prodCtrl"
     })
+    .when("/produits", {
+        templateUrl : "view/produits.html",
+        controller : "prodCtrl"
+    })
     // navbar left
     .when("/produits/pier-huge/", {
         templateUrl : "view/produits/pier-huge.html"
