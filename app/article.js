@@ -1,5 +1,3 @@
-var app = angular.module('myApp', []);
-
 app.controller('prodCtrl', function($scope, $http) {
   $http.get('article.json')
     .then(function(response) { // si ok
