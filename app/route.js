@@ -20,6 +20,10 @@ app.config(function($routeProvider) {
         templateUrl : "view/produits.html",
         controller : "prodCtrl"
     })
+    .when("/produit/:id", {
+        templateUrl : "view/produit.html",
+        controller : "prodCtrl"
+    })
     .when("/service/:cat", {
         templateUrl : "view/service.html",
         controller : "prodCtrl"

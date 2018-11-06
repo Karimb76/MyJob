@@ -6,6 +6,7 @@ app.controller('prodCtrl', function($scope, $http, $routeParams) {
     $scope.articles = 'Le Json ne s\'est pas chargé';
   });
   $scope.cat=$routeParams.cat;
+  $scope.id=$routeParams.id;
 
   var valueOld ;
   $scope.noDuplicate=function(value){
