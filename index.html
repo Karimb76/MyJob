@@ -1,4 +1,4 @@
-a<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
@@ -21,7 +21,7 @@ a<!DOCTYPE HTML>
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
               <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                <h5 class="modal-title" id="exampleModalLongTitle">Prix total de {{prixTotalDuPanier()}}€ pour un total de {{nombreArticlesDuPanier()}} articles</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
                 </button>
@@ -44,7 +44,7 @@ a<!DOCTYPE HTML>
                       {{itemArticle.price}}
                     </div>
                     <div class="">
-                      <a href="#" class="supprimerProduit">Supprimer</a>
+                      <a href="#" data-ng-click="supprimerDuPanier($index)" class="supprimerProduit">Supprimer</a>
                     </div>
                   </div>
                 </div><!--item panier -->
@@ -128,8 +128,9 @@ a<!DOCTYPE HTML>
   <script src="asset/js/angularjs/angular-route.js"></script>
   <script src="asset/js/jquery/jquery-3.3.1.min.js"></script>
   <script src="asset/js/bootstrap/popper.min.js"></script>
-  <script src="asset/js/bootstrap//bootstrap.min.js"></script>
+  <script src="asset/js/bootstrap/bootstrap.min.js"></script>
   <script src="app/route.js"></script>
   <script src="app/panier.js"></script>
+  <script src="app/article.js"></script>
 </body>
 </html>

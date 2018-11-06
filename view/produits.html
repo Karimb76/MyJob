@@ -1,8 +1,14 @@
 <div class="row">
-  <div class="col-4">
+  <div class="col-lg-4"> <!-- col de navigation -->
     <div class="row">navbar left</div>
   </div>
-  <div class="col-8">
-    <div class="row" ng-view></div>
-  </div>
-</div>
+  <div class="col-lg-8"> <!-- col de navigation -->
+    <div class="row" ng-controller="prodCtrl"> <!-- debut row col 8 -->
+      <ul ng-repeat="article in articles | filter:{'type': 'produit'}">
+         <li>{{article.titre}}</li>
+         <li>{{article.categorie}} - {{article.descriptif}}</li>
+         <li>{{article.prix}}</li>
+       </ul>
+    </div>
+  </div><!-- fin row col 8 -->
+</div> <!-- fin premier row -->
