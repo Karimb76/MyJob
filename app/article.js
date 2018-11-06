@@ -1,8 +1,21 @@
-app.controller('prodCtrl', function($scope, $http) {
+app.controller('prodCtrl', function($scope, $http, $routeParams) {
   $http.get('article.json')
-    .then(function(response) { // si ok
+  .then(function(response) { // si ok
     $scope.articles = response.data;
   }, function(response) { // si ko
     $scope.articles = 'Le Json ne s\'est pas chargé';
   });
+  $scope.cat=$routeParams.cat;
+
+  var valueOld ;
+  $scope.noDuplicate=function(value){
+    if (value == valueOld)  {
+      console.log(true)
+      return true;
+    }
+    valueOld = value
+    console.log(false)
+
+    return false;
+  }
 });

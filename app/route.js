@@ -13,6 +13,20 @@ app.config(function($routeProvider) {
     })
     // navbar left
     .when("/produits", {
-        templateUrl : "view/produits.html"
+        templateUrl : "view/produits.html",
+        controller : "prodCtrl"
+    })
+    .when("/produits/:cat", {
+        templateUrl : "view/produits.html",
+        controller : "prodCtrl"
+    })
+    .when("/service/:cat", {
+        templateUrl : "view/service.html",
+        controller : "prodCtrl"
     });
 });
+
+
+
+
+// html#!/produits/Programme Hydratation Intense
