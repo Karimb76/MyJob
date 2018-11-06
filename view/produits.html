@@ -8,8 +8,9 @@
   </div>
   <div class="col-lg-8"> <!-- col de navigation -->
     <div class="row"> <!-- debut row col 8 -->
-      <ul ng-repeat="article in articles | filter:{'type': 'produit'}">
+      <ul ng-repeat="article in articles | filter:{'type': 'produit'} | filter:{'categorie': cat}">
         <li>{{article.categorie}}</li>
+        <li><img src="asset/image/{{article.image}}" /></li>
         <li>{{article.titre}} - {{article.descriptif}}</li>
         <li>{{article.prix}}</li>
       </ul>

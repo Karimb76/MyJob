@@ -1,17 +1,18 @@
 <div class="row" ng-controller="prodCtrl">
-  <div class="col-4"> <!-- col de navigation -->
+  <div class="col-lg-4"> <!-- col de navigation -->
     <div class="row">
       <ul ng-repeat="article in articles | filter:{'type': 'service'}" ng-if="!noDuplicate(article.categorie)">
         <li><a href="#!/service/{{article.categorie}}">{{article.categorie}}</a></li>
       </ul>
     </div>
   </div>
-    <div class="col-8"> <!-- col de navigation -->
+  <div class="col-lg-8"> <!-- col de navigation -->
       <div class="row" ng-controller="prodCtrl"> <!-- debut row col 8 -->
-        <ul ng-repeat="article in articles | filter:{'type': 'service'}">
+        <ul ng-repeat="article in articles | filter:{'type': 'service'}  | filter:{'categorie': cat}">
           <li>{{article.titre}}</li>
+          <li><img src="asset/image/{{article.image}}" /></li>
           <li>{{article.categorie}} - {{article.descriptif}}</li>
-          <li>{{article.prix}}</li>
+          <li>{{article.prix}} {{article.temps}}</li>
         </ul>
       </div>
     </div><!-- fin row col 8 -->

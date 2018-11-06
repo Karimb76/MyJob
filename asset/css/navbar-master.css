@@ -36,6 +36,8 @@ header {
 nav {
   position: fixed;
   width: 100%;
+  z-index: 100;
+  text-shadow: -2px 0 2px black;
 }
 
 nav ul {

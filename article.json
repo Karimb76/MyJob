@@ -104,7 +104,7 @@
   "type": "service",
   "categorie": "soin corps",
   "titre": "soin aux pierres chaudes",
-  "prix": "xx,xx",
+  "prix": "72,80",
   "image": "image.png",
   "descriptif": "Vivez une expérience naturelle et authentique avec le SOIN AUX PIERRES CHAUDES. Votre esthéticienne façonnera des pierres exclusivesadaptées à vos envies pour un véritable moment de détente. Votre corps s'abandonne à des sensations uniques où la chaleur des pierres va se propager doucement le long de votre corps et vous procurer une sensation de bien-être et de relâchement total.",
   "temps": "1h"
@@ -384,7 +384,7 @@
   "categorie": "Programme Hydratation Intense",
   "titre": "Soin Hydratant FONDAMENTAL",
   "prix": "99,40",
-  "image": "image.png",
+  "image": "caresse.png",
   "descriptif": "Ce soin enrichi en extrait de Grenade, qui stimule les aquaporines, et en Acide Hyaluronique, estompe les ridules dues à la déshydration cutanée. La peau retrouve douceur et éclat."
 },
 {
@@ -678,8 +678,8 @@
 {
   "id": 73,
   "type": "produit",
-  "categorie": "Brume Visage Fleurs d’Oranger",
-  "titre": "epilation du mallot",
+  "categorie": "Les Spécifiques",
+  "titre": "Brume Visage Fleurs d’Oranger",
   "prix": "5,00",
   "image": "image.png",
   "descriptif": "Pour une sensation d’évasion, cette brume pour le visage, développée en partenariat avec la compagnie aérienne Royal Air Maroc, est délicatement parfumée à la fleur d’oranger. Elle rafraîchit la peau à tout moment de la journée. La glycérine hydratante* et humectante associée à un agent adoucissant apporte souplesse à la peau."
