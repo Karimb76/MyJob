@@ -1,0 +1,894 @@
+[
+  {
+  "id": 1,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin précieux",
+  "prix": "70,00",
+  "image": "image.png",
+  "descriptif": "Prolongez la jeunesse de votre peau avec le SOIN PRÉCIEUX, spécifiquement conçu pour contrôler les premiers signes de l'âge. La pose du Masque Raffermissant à la Spiruline accélère le renouvellement des cellules, tonifie les tissus et prévient l'apparition des rides.",
+  "temps": "1h15"
+},
+{
+  "id": 2,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin lumière",
+  "prix": "65,00",
+  "image": "image.png",
+  "descriptif": "Ne laissez pas agir les signes du temps et offrez à votre peau le SOIN LUMIÈRE, qui va stimuler les capacités anti-âge naturelles de la peau. La pose du Masque Oxygénant aux Huiles Fluorées stimule la respiration cellulaire, régénère et tonifie la peau.",
+  "temps": "1h"
+},
+{
+  "id": 3,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin divin",
+  "prix": "80,00",
+  "image": "image.png",
+  "descriptif": "Offrez-vous l'excellence de l'anti-âge avec le SOIN DIVIN, spécifiquement conçu pour prendre soin des peaux matures, ridées, qui manquent de fermeté et de densité. Le modelage et la pose du Masque Oxygénant aux Huiles Fluorées allient les actions restructurantes, revitalisantes et raffermissantes pour une peau nourrie en profondeur.",
+  "temps": "1h15"
+},
+{
+  "id": 4,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin douceur",
+  "prix": "65,00",
+  "image": "image.png",
+  "descriptif": "Offrez-vous une pause cocoon avec le SOIN DOUCEUR spécifiquement conçu pour prendre soin des peaux sèches et sensibles. Ce soin allie l'efficacité d'un masque Avocat Coton, doté de propriétés réparatrices et adoucissantes, au plaisir d'un modelage à base de beurres végétaux nourrissants.",
+  "temps": "1h"
+},
+{
+  "id": 5,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin hydratant fondamental",
+  "prix": "65,00",
+  "image": "image.png",
+  "descriptif": "Accordez-vous ce moment de détente et de bien-être avec le SOIN HYDRATANT FONDAMENTAL qui a été spécifiquement conçu pour les peaux déshydratées, qui manquent d'éclat et de confort. La pose du Masque Hydratant gorgé d'Aquaporines plonge votre peau dans un véritable bain de fraîcheur.",
+  "temps": "1h"
+},
+{
+  "id": 6,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin coup d'éclat survitaminé",
+  "prix": "60,00",
+  "image": "image.png",
+  "descriptif": "Laissez-vous surprendre par le SOIN COUP D'ÉCLAT SURVITAMINÉ qui offre une parfaite remise en forme à votre peau. Enrichi en Vitamine C, le Masque Modelant hyper vitaminé redonne de l'énergie aux peaux ternes et stressées.",
+  "temps": "1h"
+},
+{
+  "id": 7,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin myperferct",
+  "prix": "50,00",
+  "image": "image.png",
+  "descriptif": "Laissez-vous séduire par les bienfaits du SOIN myPERFECT, spécifiquement conçu pour prendre soin des peaux à imperfections : brillance, grain de peau irrégulier, pores dilatés, points noirs... <br /> La pose du Masque Perfecteur à l’Huile Essentielle de Tea Tree affinant et régulateur de sébum procure une véritable sensation de fraîcheur grâce au Menthol.",
+  "temps": "1h"
+},
+{
+  "id": 8,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "Anti-âge CRYO-RESTRUCTUREL",
+  "prix": "90,00",
+  "image": "image.png",
+  "descriptif": "Profitez d'un soin unique et exclusif, hautement performant, avec le Programme Anti-âge CRYO RESTRUCTUREL. Véritable solution anti-âge alternative au Botox ou à la chirurgie esthétique, ce soin retarde le vieillissement de la peau.<br />Du simple coup d'éclat au lifting biologique en passant par un anti-âge profond, l'association exceptionnelle de l'ADN hp et de l'Acide Hyaluronique (récompensée par le CNRS et l'ANVAR) diminue les rides profondes et lisse le grain de peau.",
+  "temps": "1h"
+},
+{
+  "id": 9,
+  "type": "service",
+  "categorie": "soin visage",
+  "titre": "soin éclaircissant",
+  "prix": "60,00",
+  "image": "image.png",
+  "descriptif": "Découvrez les bienfaits du Soin Éclaircissant qui a été spécifiquement conçu pour prendre soin des peaux ternes et pigmentées. Les actifs du programme anti-taches freinent la production de mélanine et ont une action ciblée sur les taches.",
+  "temps": "1h"
+},
+{
+  "id": 10,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin minceur aux algues",
+  "prix": "80,00",
+  "image": "image.png",
+  "descriptif": "Profitez des bienfaits du SOIN MINCEUR AUX ALGUES, véritable soin minceur sur mesure aux différents modelages à la fois fermes et énergiques. Les algues laminaires enveloppe le corps pour l'embellir tout en apportant un véritable moment de relaxation.<br />Ce protocole minceur va stimuler la microcirculation et déstocker les graisses permettant à votre corps de retrouver minceur et légèreté.",
+  "temps": "1h30"
+},
+{
+  "id": 11,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin aux pierres chaudes",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "Vivez une expérience naturelle et authentique avec le SOIN AUX PIERRES CHAUDES. Votre esthéticienne façonnera des pierres exclusivesadaptées à vos envies pour un véritable moment de détente. Votre corps s'abandonne à des sensations uniques où la chaleur des pierres va se propager doucement le long de votre corps et vous procurer une sensation de bien-être et de relâchement total.",
+  "temps": "1h"
+},
+{
+  "id": 12,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin du buste",
+  "prix": "45,00",
+  "image": "image.png",
+  "descriptif": "Révélez la beauté du buste, symbole de votre féminité en lui apportant un soin attentif pour le tonifier et le galber.<br />Le modelage raffermissant suivi de la pose d'un enveloppement aux algues riche en minéraux, tonifie, régénère et stimule les tissus de soutien.",
+  "temps": "1h"
+},
+{
+  "id": 13,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin dos parfait",
+  "prix": "50,00",
+  "image": "image.png",
+  "descriptif": "Un gommage, un modelage relaxant et un masque clarifiant, appliqué tour à tour sur le dos, pour retrouver une peau nette et sans imperfections et dénouer les tensions.",
+  "temps": "1h"
+},
+{
+  "id": 14,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin jambes légères",
+  "prix": "45,00",
+  "image": "image.png",
+  "descriptif": "Ce soin ciblé jambes légères combine nos accors aux huiles essentielles pour une expérience sur-mesure : relancent les circulations lymphatiques et circulatoires pour alléger et soulager les jambes.",
+  "temps": "0h45"
+},
+{
+  "id": 15,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin rituel exfoliant",
+  "prix": "60,00",
+  "image": "image.png",
+  "descriptif": "Ce rituel gomme toutes les traces de fatigue et débarrasse la peau des cellules mortes, en douceur, grâce à des gestuelles enveloppantes et exfoliantes. Pour un moment de détente optimal, le rituel d'exfoliation peut être suivi d'un modelage corps DECLEOR.",
+  "temps": "1h30"
+},
+{
+  "id": 16,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin polynesien au Monoï",
+  "prix": "55,00",
+  "image": "image.png",
+  "descriptif": "Laissez-vous aller entre nos mains, lors d’un voyage des sens à l’huile de Monoï. Secret de beauté des vahinés, le Monoï est extrait des fleurs de Tiaré, emblèmes de Tahiti. Ce modelage inspiré de la tradition ancestrale polynésienne permet à l’ensemble de votre corps de retrouver son harmonie. De longs mouvements des mains et des avant-bras, au rythme du va-et-vient des vagues, chassent les toxines et libèrent les tensions. Votre corps et votre esprit sont apaisés. Vous repartez avec la peau soyeuse et parfumée du divin sillage des fleurs de Tahiti.",
+  "temps": "1h00"
+},
+{
+  "id": 17,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin minceur au Mangoustan",
+  "prix": "55,00",
+  "image": "image.png",
+  "descriptif": "Pour commencer, un gommage et un drainage stimulant activent votre microcirculation et préparent votre peau à recevoir le au Mangoustan. Notre esthéticienne procède alors à un modelage manuel qui alterne palper-rouler, pétrissages et lissages en ciblant les zones rebelles des cuisses, des fesses et du ventre. Le protocole s'achève par un enveloppement enrichi en Caféine qui parfait l'efficaicté affinante du soin",
+  "temps": "1h00"
+},
+{
+  "id": 18,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "soin oriental aux Huiles d’Argan & de Rose",
+  "prix": "55,00",
+  "image": "image.png",
+  "descriptif": "Vous lâchez prise dès le gommage délicat au gant exfoliant, qui alterne lissages et effleurages. Notre esthéticienne applique ensuite l’onctueuse huile Orientale à base d’huile d’Argan sur l’ensemble de votre corps et grâce à sa gestuelle précise libère l’ensemble des tensions.",
+  "temps": "1h00"
+},
+{
+  "id": 19,
+  "type": "service",
+  "categorie": "soin corps",
+  "titre": "évasion africaine au Karité & Graines Chaudes d’Entada",
+  "prix": "55,00",
+  "image": "image.png",
+  "descriptif": "Laissez-vous emporter jusqu’en Afrique lors d’un voyage sensoriel aux parfums suaves et gourmands. Secret de beauté des femmes africaines, le beurre de Karité chauffé devient une huile tiède nourrissante qui enveloppe votre corps dans une infinie douceur. Les graines d’Entada, considérées comme porte-bonheur en Afrique, sont ensuite glissées tout le long de votre corps, délivrant leur douce chaleur bienfaisante. Par de lents mouvements, notre esthéticienne esquisse des sillons tièdes au creux de vos reins, sur vos bras, vos mains, votre nuque... Véritable source d’évasion pour votre corps et votre esprit, la chaleur de ce soin favorise le relâchement des tensions. Ce rituel vous fait découvrir des sensations inédites.",
+  "temps": "1h00"
+},
+{
+  "id": 20,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation demi-jambes",
+  "prix": "20,00",
+  "image": "image.png",
+  "descriptif": "Epilation demi-jambes pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 21,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation jambes entières",
+  "prix": "26,00",
+  "image": "image.png",
+  "descriptif": "Epilation demi-jambes pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 22,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation aisselles",
+  "prix": "10,00",
+  "image": "image.png",
+  "descriptif": "epilation aisselles pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 23,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation du maillot brésilien",
+  "prix": "15,00",
+  "image": "image.png",
+  "descriptif": "epilation du maillot façon brésilienne pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 24,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation intégralle",
+  "prix": "26,00",
+  "image": "image.png",
+  "descriptif": "epilation intégralle pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 25,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation bras",
+  "prix": "15,00",
+  "image": "image.png",
+  "descriptif": "epilation bras pour une peau lisse et soyeuse pendant plusieurs semaines."
+},
+{
+  "id": 26,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation sourcils",
+  "prix": "10,00",
+  "image": "image.png",
+  "descriptif": "epilation sourcils pour un visage radieux pendant plusieurs semaines."
+},
+{
+  "id": 27,
+  "type": "service",
+  "categorie": "epilation",
+  "titre": "epilation lèvres et/ou menton",
+  "prix": "10,00",
+  "image": "image.png",
+  "descriptif": "epilation lèvres pour une peau lisse et soyeuse et un visage radieux pendant plusieurs semaines."
+},
+{
+  "id": 28,
+  "type": "service",
+  "categorie": "maquillage",
+  "titre": "maquillage jour",
+  "prix": "15,00",
+  "image": "image.png",
+  "descriptif": "Envie d’un conseil personnalisé pour vous maquiller au quotidien ? Cette prestation vous dévoilera comment unifier et magnifier votre teint, appliquer les couleurs qui mettent vos yeux et vos Lèvres en valeur et toutes les astuces pour être belle et rayonnante."
+},
+{
+  "id": 29,
+  "type": "service",
+  "categorie": "maquillage",
+  "titre": "maquillage soirée",
+  "prix": "18,00",
+  "image": "image.png",
+  "descriptif": "Pour une soirée exceptionnelle, un rendez-vous important, faites confiance à nos esthéticiennes pour un maquillage personnalisé. Par leur écoute et leur savoir-faire, elles sauront sublimer votre beauté. Naturel ou sophistiqué, ce maquillage sera la touche finale de votre élégance."
+},
+{
+  "id": 30,
+  "type": "service",
+  "categorie": "maquillage",
+  "titre": "maquillage mariage",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "Laissez-vous aller entre les mains bienveillantes de notre esthéticienne, assurée d'avoir un maquillage parfait pour cette journée unique. Couleurs, textures, effets seront travaillés pour être en harmonie avec votre tenue et votre coiffure. Vous serez la plus belle pour dire 'Oui !'"
+},
+{
+  "id": 31,
+  "type": "service",
+  "categorie": "maquillage",
+  "titre": "maquillage sophistiqué",
+  "prix": "xx,xx",
+  "image": "image.png",
+  "descriptif": "Maquillage intense et travaillé. L'intensité est mise soit sur les yeux, soit sur les lèvres, et le teint est sublimé."
+},
+{
+  "id": 32,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "manucure express",
+  "prix": "27,00",
+  "image": "image.png",
+  "descriptif": "Couper, limer, repousser les cuticules, polir les ongles si besoin, application de crème mains et pose de base transparente."
+},
+{
+  "id": 33,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "manucure complète",
+  "prix": "32,00",
+  "image": "image.png",
+  "descriptif": "Couper, limer, repousser les cuticules, polir les ongles si besoin, application de crème, modelage des mains, pose de vernis."
+},
+{
+  "id": 34,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "pose de vernis main et pied",
+  "prix": "12,00",
+  "image": "image.png",
+  "descriptif": "Limage + polissage + pose de vernis sur mains et pieds."
+},
+{
+  "id": 35,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "Pose de French manucure main et pied",
+  "prix": "16,00",
+  "image": "image.png",
+  "descriptif": "Limer, polir les ongles si besoin, pose de french."
+},
+{
+  "id": 36,
+  "type": "service",
+  "categorie": "manucure",
+  "titre": "beauté des pieds",
+  "prix": "35,00",
+  "image": "image.png",
+  "descriptif": "Couper, limer, repousser les cuticules, polir les ongles si besoin, application de crème, modelage des pieds, pose de vernis."
+},
+{
+  "id": 37,
+  "type": "service",
+  "categorie": "cils",
+  "titre": " teinture des cils et sourcils",
+  "prix": "20,00",
+  "image": "image.png",
+  "descriptif": "La teinture des cils ou des sourcils consiste à colorer les poils de manière temporaire, entre 3 semaines à 4 semaines, afin de faire ressortir leur couleur sans utiliser de maquillage."
+},
+{
+  "id": 38,
+  "type": "service",
+  "categorie": "cils",
+  "titre": " permanente et réhaussement de cils",
+  "prix": "50,00",
+  "image": "image.png",
+  "descriptif": "La permanente des cils est une technique qui vise à donner une jolie courbure aux cils pour ouvrir le regard tout en gardant un aspect naturel.<br />Votre regard est sublimé pour environ 2 et 3 mois."
+},
+{
+  "id": 39,
+  "type": "produit",
+  "categorie": "Programme Hydratation Intense",
+  "titre": "Régénérant Lissant LE SOIN TEINTÉ",
+  "prix": "71,30",
+  "image": "image.png",
+  "descriptif": "Associés aux huiles végétales, les trois complexes tenseur, hydratant* et raffermissant protègent la peau de la déshydratation, du stress et de la pollution. Ce soin de jour teinté apporte un léger voile hâlé."
+},
+{
+  "id": 39,
+  "type": "produit",
+  "categorie": "Programme Hydratation Intense",
+  "titre": "Régénérant Lissant LE SOIN",
+  "prix": "71,30",
+  "image": "image.png",
+  "descriptif": "Associés aux huiles végétales, les trois complexes tenseur, hydratant* et raffermissant protègent la peau de la déshydratation, du stress et de la pollution. La peau est lissée, hydratée* et protégée."
+},
+{
+  "id": 40,
+  "type": "produit",
+  "categorie": "Programme Hydratation Intense",
+  "titre": "Soin Hydratant FONDAMENTAL",
+  "prix": "99,40",
+  "image": "image.png",
+  "descriptif": "Ce soin enrichi en extrait de Grenade, qui stimule les aquaporines, et en Acide Hyaluronique, estompe les ridules dues à la déshydration cutanée. La peau retrouve douceur et éclat."
+},
+{
+  "id": 41,
+  "type": "produit",
+  "categorie": "Programme Hydratation Intense",
+  "titre": "HYDRA-SERUM Concentré Hydratant Intense",
+  "prix": "82,30",
+  "image": "image.png",
+  "descriptif": "L'action conjointe de l'Acide Hyaluronique et de l'Extrait de Cresson des Fontaines hydrate* intensément et retient l'eau dans les cellules de la peau. Ce concentré hydratant* intense offre une hydratation* optimale et continue."
+},
+{
+  "id": 42,
+  "type": "produit",
+  "categorie": "Programme Hydratation Intense",
+  "titre": "VITAMINE C Sérum Éclat Energisant",
+  "prix": "75,30",
+  "image": "image.png",
+  "descriptif": "Véritable réserve d’énergie, la vitamine C associée à l’extrait d’Ananas et aux protéines de Blé, redynamisent les peaux ternes et assoiffées. Revitalisant, ce sérum atténue les marques de fatigue, hydrate* et redonne de l'éclat aux peaux fatiguées."
+},
+{
+  "id": 43,
+  "type": "produit",
+  "categorie": "Programme Hydratation Intense",
+  "titre": "Soin Énergisant Ental SURVITAMINÉ",
+  "prix": "52,20",
+  "image": "image.png",
+  "descriptif": "Le cocktail de vitamines  A, C, E, de provitamine B5 et de complexes protéinés et hydratants* redonnent de l'éclat à la peau et luttent contre la déshydratation cutanée."
+},
+{
+  "id": 44,
+  "type": "produit",
+  "categorie": "Programme Hydratation Intense",
+  "titre": "CRÈME DE CONCOMBRE Soin Hydratant",
+  "prix": "37,20",
+  "image": "image.png",
+  "descriptif": "Ce soin associe la technicité du complexe hydratant*, qui reproduit les mécanismes naturels d'hydratation* à la douceur du Concombre qui rafraîchit, tonifie et hydrate* la peau."
+},
+{
+  "id": 45,
+  "type": "produit",
+  "categorie": "Programme Douceur Active",
+  "titre": "Soin Adoucissant Ental DÉLICATE",
+  "prix": "40,20",
+  "image": "image.png",
+  "descriptif": "Véritable bouclier contre les agressions climatiques, ce soin adoucissant et concentré en huiles végétales et Cire d'abeille nourrit intensément la peau. Les Phytostimulines de Maïs favorisent la régénération cutanée."
+},
+{
+  "id": 46,
+  "type": "produit",
+  "categorie": "Programme Douceur Active",
+  "titre": "Soin Régénérant Tri-actif COMPLÉTUDE",
+  "prix": "72,30",
+  "image": "image.png",
+  "descriptif": "Riche en ADN hp, en Acide Hyaluronique, associés à du Bifidus protecteur, de la cire d'abeille et de la Vitamine E, ce soin à triple action prévient du vieillissement cutané, nourrit et protège les peaux sèches et sensibles. La peau est lisse, douce et souple."
+},
+{
+  "id": 47,
+  "type": "produit",
+  "categorie": "Programme Douceur Active",
+  "titre": "Soin Complet Revitalisant SUPER ENTAL",
+  "prix": "44,20",
+  "image": "image.png",
+  "descriptif": "Hyper protéiné, nourrissant et revitalisant, ce soin protège la peau de la sécheresse et du vieillissement cutané. Les huiles végétales de germes de Blé, de Maïs et de Tournesol adoucissent la peau et forment un film lisse et protecteur."
+},
+{
+  "id": 48,
+  "type": "produit",
+  "categorie": "Programme Douceur Active",
+  "titre": "Soin Réparateur Apaisant PA 24",
+  "prix": "51,10",
+  "image": "image.png",
+  "descriptif": "Hautement concentré en ADN hp et en Calendula, ce soin apaisant renforce les défenses de la peau réactive et lui permet de faire face aux agressions quotidiennes (pollution, climat...)"
+},
+{
+  "id": 49,
+  "type": "produit",
+  "categorie": "Programme Éclaircissant",
+  "titre": "Sérum et Soin ΣKIÁ",
+  "prix": "99,40",
+  "image": "image.png",
+  "descriptif": "Complémentaires et indissociables, ce sérum et ce soin éclaircissants freinent et régulent la production de mélanine pour atténuer les irrégularités pigmentaires. Jour après jour, la peau est unifiée et lumineuse."
+},
+{
+  "id": 50,
+  "type": "produit",
+  "categorie": "Programme Équilibre",
+  "titre": "myPERFECT GEL",
+  "prix": "25,10",
+  "image": "image.png",
+  "descriptif": "Grâce à l'extrait de Bardane et à l'agent moussant extrait de la Pomme, ce gel nettoie et purifie la peau au quotidien sans l'agresser."
+},
+{
+  "id": 51,
+  "type": "produit",
+  "categorie": "Programme Équilibre",
+  "titre": "myPERFECT SÉRUM",
+  "prix": "69,30",
+  "image": "image.png",
+  "descriptif": "Ce gel fondant et ultra-frais, concentré en extrait de Bardane purifie la peau. Les Acides de Fleurs et l'extrait de Lentilles affinent le grain de peau et atténuent l'aspect disgracieux des pores dilatés"
+},
+{
+  "id": 52,
+  "type": "produit",
+  "categorie": "Programme Équilibre",
+  "titre": "myPERFECT CRÈME",
+  "prix": "39,20",
+  "image": "image.png",
+  "descriptif": "Ce soin correcteur matifiant apaise et favorise la réparation cutanée. L'extrait de Bardane associé à deux agents séborégulateurs, régulent la production de sébum et limitent la prolifération des germes."
+},
+{
+  "id": 53,
+  "type": "produit",
+  "categorie": "Programme Équilibre",
+  "titre": "myPERFECT SOLUTION",
+  "prix": "19,60",
+  "image": "image.png",
+  "descriptif": "Ce concentré purifiant, à base d'huiles essentielles antibactériennes (Petit Grain) et régénérantes (Tea Tree) est le nouveau garde du corps des peaux à imperfections."
+},
+{
+  "id": 54,
+  "type": "produit",
+  "categorie": "Programme Maîtrise du Temps",
+  "titre": "ADN PRECIEUX Sérum Raffermissant Jeunesse",
+  "prix": "125,50",
+  "image": "image.png",
+  "descriptif": "Concentré en ADN hp et pierres semi-précieuses riche en Manganèse, Cuivre et Zinc, ce sérum aux propriétés antioxydantes protège les cellules du vieillissement. Il lutte contre le relâchement cutané et l'affaissement de l'ovale du visage et du cou."
+},
+{
+  "id": 55,
+  "type": "produit",
+  "categorie": "Programme Maîtrise du Temps",
+  "titre": "NECTAR DE FLEURS Sérum Lift Revitalisant",
+  "prix": "100,40",
+  "image": "image.png",
+  "descriptif": "Les Acides de Fleurs, issus de l’Hibiscus, associés à la Gelée Royale et aux Glycoprotéines végétales accélèrent le renouvellement cellulaire et régénèrent la peau. Ce sérum booster, lisse et révèle l’éclat naturel de la peau. "
+},
+{
+  "id": 56,
+  "type": "produit",
+  "categorie": "Programme Maîtrise du Temps",
+  "titre": "Soin Lumière Dynamisant FLEURS D'ABSOLU",
+  "prix": "72,30",
+  "image": "image.png",
+  "descriptif": "Ce soin lumière anti-âge aux extraits de pétales de fleurs d'Iris, de Lotus Sacré, de Lys Blanc, de Capucine, de Camélia et de Calendula nourrit, redonne éclat et protège la peau du vieillissement cutané."
+},
+{
+  "id": 57,
+  "type": "produit",
+  "categorie": "Programme Maîtrise du Temps",
+  "titre": "Soin Unique Nuit et Jour PA24",
+  "prix": "68,30",
+  "image": "image.png",
+  "descriptif": "Ce soin anti-âge, concentré en ADN hp, en complexes hydratants* et revitalisants, favorise la régénération des tissus et lutte contre les premiers signes de l'âge."
+},
+{
+  "id": 58,
+  "type": "produit",
+  "categorie": "Programme Maîtrise du Temps",
+  "titre": "Soin Redensifiant ACMA",
+  "prix": "195,70",
+  "image": "image.png",
+  "descriptif": "Riche en Acide Hyaluronique, en Huiles Fluorées et en Beurre de Karité, ce soin global anti-âge hydrate*, régénère la peau et lutte contre les rides et le relâchement cutané."
+},
+{
+  "id": 59,
+  "type": "produit",
+  "categorie": "Programme Purifiant",
+  "titre": "Gommage Doux PEELING",
+  "prix": "33,20",
+  "image": "image.png",
+  "descriptif": "Ce gommage, à l'extrait de Kaolin au fort pouvoir absorbant, exerce un micro-gommage doux sur la peau. Son action est complétée par l'extrait de Levure, source de vitamines, oligoéléments et acides aminés, qui calme et revitalise la peau."
+},
+{
+  "id": 60,
+  "type": "produit",
+  "categorie": "Programme Purifiant",
+  "titre": "MASQUE CRÈME Rééquilibrant ",
+  "prix": "33,20",
+  "image": "image.png",
+  "descriptif": "Ce masque doux à la texture épaisse rééquilibre toutes les peaux. L'action conjointe de l'agent nourrissant et de l'Oxyde de Zinc à l'action antiseptique et antibactérienne, purifie et apaise la peau."
+},
+{
+  "id": 61,
+  "type": "produit",
+  "categorie": "Programme Purifiant",
+  "titre": "Masque-soin Ressourçant DOUCE AURA",
+  "prix": "33,20",
+  "image": "image.png",
+  "descriptif": "Merveille de douceur, ce masque soin à l'ADN hp et aux Enzymes redonne élasticité, souplesse et douceur à la peau. Les Enzymes stimulent le renouvellement cellulaire et favorisent l'élimination des cellules mortes pour un teint lumineux et unifié."
+},
+{
+  "id": 62,
+  "type": "produit",
+  "categorie": "Démaquillant",
+  "titre": "L'EAU DE MOUSSE",
+  "prix": "30,20",
+  "image": "image.png",
+  "descriptif": "Rafraîchissante, cette eau de mousse nettoie la peau et élimine les impuretés. L'action hydratante* de l'Hydratant bio-mimétique, de la Provitamine B5 et du Complexe adoucissant permet un nettoyage en douceur sans agresser ni déshydrater la peau."
+},
+{
+  "id": 63,
+  "type": "produit",
+  "categorie": "Démaquillant",
+  "titre": "Démaquillant Doux Leapsal CLEANSER",
+  "prix": "42,60",
+  "image": "image.png",
+  "descriptif": "Ce lait démaquillant à la texture légère et onctueuse procure un démaquillage tout en douceur pour une tolérance optimale. L'huile de Lanoline apporte hydratation*, douceur et souplesse à la peau."
+},
+{
+  "id": 64,
+  "type": "produit",
+  "categorie": "Démaquillant",
+  "titre": "Lotion Douce Leapsal TONIC",
+  "prix": "32,60",
+  "image": "image.png",
+  "descriptif": "Cette lotion tonique parfait le démaquillage du visage sans dessécher la peau. La Glycérine hydratante* et humectante associée à un agent adoucissant apporte souplesse à la peau."
+},
+{
+  "id": 65,
+  "type": "produit",
+  "categorie": "Démaquillant",
+  "titre": "Crème Désincrustante",
+  "prix": "35,20",
+  "image": "image.png",
+  "descriptif": "Cette crème, gorgée de petites billes exfoliantes, gomme la peau des cellules mortes et élimine les impuretés. Sa concentration en Lipoprotéines assure un nettoyage doux sans effet délipidant."
+},
+{
+  "id": 66,
+  "type": "produit",
+  "categorie": "Démaquillant",
+  "titre": "Nettoyant Crème SAVON",
+  "prix": "26,10",
+  "image": "image.png",
+  "descriptif": "Ce nettoyant crème neutralise les sels calcaires grâce aux Lipoprotéines et élimine le maquillage et les impuretés. La peau est nette et fraîche."
+},
+{
+  "id": 67,
+  "type": "produit",
+  "categorie": "Démaquillant",
+  "titre": "KIT DÉMAQUILLANT CLEANSER",
+  "prix": "40,00",
+  "image": "image.png",
+  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.<br />Ce kit contient :<br />- 1 Démaquillant Doux Leapsal CLEANSER 400ml<br />- 1 Démaquillant Doux Leapsal CLEANSER 400ml offert"
+},
+{
+  "id": 68,
+  "type": "produit",
+  "categorie": "Démaquillant",
+  "titre": "KIT DÉMAQUILLANT TONIC",
+  "prix": "40,00",
+  "image": "image.png",
+  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.<br />Ce kit contient :<br />- 1 Lotion Douce Leapsal TONIC 400ml<br />- 1 Lotion Douce Leapsal TONIC 400ml offert"
+},
+{
+  "id": 69,
+  "type": "produit",
+  "categorie": "Démaquillant",
+  "titre": "KIT DÉMAQUILLANT CLEANSER et TONIC",
+  "prix": "40,00",
+  "image": "image.png",
+  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.<br />Ce kit contient :<br />- 1 Démaquillant Doux Leapsal CLEANSER 400ml<br />- 1 Lotion Douce Leapsal TONIC 400ml offert"
+},
+{
+  "id": 70,
+  "type": "produit",
+  "categorie": "Les Spécifiques",
+  "titre": "RIMSER Soin Revitalisant",
+  "prix": "51,20",
+  "image": "image.png",
+  "descriptif": "Très concentré en protéines nutritives et réparatrices, ce baume renforce la protection naturelle de la peau et favorise le processus de cicatrisation. L'extrait de Levure aux propriétés réparatrices et régénérantes, active le renouvellement cellulaire et la synthèse du collagène."
+},
+{
+  "id": 71,
+  "type": "produit",
+  "categorie": "Les Spécifiques",
+  "titre": "Régulateur des Rougeurs Diffuses Ental ROSE",
+  "prix": "37,20",
+  "image": "image.png",
+  "descriptif": "Ce spécifique couperose apporte à la peau fragile et irritée un soin attentif. L'extrait de fleurs de Calendula apaise et adoucit la peau. Les phytostimulines de Maïs stimulent le renouvellement cellulaire et favorisent la régénération cutanée."
+},
+{
+  "id": 72,
+  "type": "produit",
+  "categorie": "Les Spécifiques",
+  "titre": "Gel Contour des Yeux PA 24",
+  "prix": "29,50",
+  "image": "image.png",
+  "descriptif": "Ce véritable anti-rides et anti-cernes régénère l'épiderme délicat des paupières et stimule la micro-circulation. L'association anti-âge de l'ADN hp, de l'Acide Hyaluronique et de la Vitamine C aide la peau à se protéger du vieillissement cutané et à maintenir son élasticité."
+},
+{
+  "id": 73,
+  "type": "produit",
+  "categorie": "Brume Visage Fleurs d’Oranger",
+  "titre": "epilation du mallot",
+  "prix": "5,00",
+  "image": "image.png",
+  "descriptif": "Pour une sensation d’évasion, cette brume pour le visage, développée en partenariat avec la compagnie aérienne Royal Air Maroc, est délicatement parfumée à la fleur d’oranger. Elle rafraîchit la peau à tout moment de la journée. La glycérine hydratante* et humectante associée à un agent adoucissant apporte souplesse à la peau."
+},
+{
+  "id": 74,
+  "type": "produit",
+  "categorie": "Maquillage",
+  "titre": "IMPALPABLE Fond de Teint Sable",
+  "prix": "21,60",
+  "image": "image.png",
+  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.<br />Nouvelle teinte :  Sable"
+},
+{
+  "id": 75,
+  "type": "produit",
+  "categorie": "Maquillage",
+  "titre": "IMPALPABLE Fond de Teint Naturel",
+  "prix": "21,60",
+  "image": "image.png",
+  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.<br />Teinte numéro 2, Naturel"
+},
+{
+  "id": 76,
+  "type": "produit",
+  "categorie": "Maquillage",
+  "titre": "IMPALPABLE Fond de Teint Dune",
+  "prix": "21,60",
+  "image": "image.png",
+  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.<br />Teinte numéro 3, Dune"
+},
+{
+  "id": 77,
+  "type": "produit",
+  "categorie": "Maquillage",
+  "titre": "IMPALPABLE Fond de Teint Ivoire",
+  "prix": "21,60",
+  "image": "image.png",
+  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.<br />Teinte numéro 1, Ivoire"
+},
+{
+  "id": 78,
+  "type": "produit",
+  "categorie": "Caresses",
+  "titre": "CARESSE COTON",
+  "prix": "29,00",
+  "image": "image.png",
+  "descriptif": "Ce baume, au parfum délicat de Fleur de Coton, vous enveloppe dans un cocon de douceur. Riche en Acide Hyaluronique et huile de germes de Blé, ce beurre corporel hydrate, nourrit, aide à lutter contre la sécheresse cutanée et la perte d'élasticité."
+},
+{
+  "id": 79,
+  "type": "produit",
+  "categorie": "Caresses",
+  "titre": "CARESSE ROSE",
+  "prix": "29,00",
+  "image": "image.png",
+  "descriptif": "La fragrance subtile et envoûtante de la Rose de Damas laisse sur la peau un voile de sensualité et de féminité. Riche en Acide Hyaluronique et huile de germes de Blé, ce beurre corporel hydrate, nourrit, aide à lutter contre la sécheresse cutanée et la perte d'élasticité."
+},
+{
+  "id": 80,
+  "type": "produit",
+  "categorie": "Caresses",
+  "titre": "CARESSE MONOÏ",
+  "prix": "29,00",
+  "image": "image.png",
+  "descriptif": "Ce baume aux notes vanillées d'Ylang Ylang et de Noix de Coco aide la peau à lutter contre la sécheresse cutanée et la perte d'élasticité. Riche en Acide Hyaluronique et en huile de germes de Blé, ce beurre corporel hydrate et nourrit intensément la peau."
+},
+{
+  "id": 81,
+  "type": "produit",
+  "categorie": "Caresses",
+  "titre": "CARESSE AGRUMES",
+  "prix": "29,00",
+  "image": "image.png",
+  "descriptif": "Ce baume aux agrumes pétillants aide à lutter contre la sécheresse cutanée et la perte d'élasticité. Riche en Acide Hyaluronique et huile de germes de Blé, ce beurre corporel hydrate et nourrit intensément la peau."
+},
+{
+  "id": 82,
+  "type": "produit",
+  "categorie": "Corps",
+  "titre": "ABSOLU MAINS Soin Nourrissant Anti-taches",
+  "prix": "19,50",
+  "image": "image.png",
+  "descriptif": "Cette crème mains enrichie en beurres tendres nourrissants et en extrait de Capucine nourrit et diminue l'apparition des tâches. L'extrait de fleurs de Calendula apaise, répare et unifie les mains."
+},
+{
+  "id": 83,
+  "type": "produit",
+  "categorie": "Corps",
+  "titre": "DÉLASS'ÉMOI Crème Pieds",
+  "prix": "19,00",
+  "image": "image.png",
+  "descriptif": "Riche en Acide Hyaluronique et en Urée, ce baume hydratant*, apaisant et rafraîchissant, procure une sensation de bien-être après une journée sportive. Sa texture onctueuse et fondante, laisse une peau douce et souple. Les pieds sont réparés, doux et apaisés."
+},
+{
+  "id": 84,
+  "type": "produit",
+  "categorie": "Corps",
+  "titre": "Lait Corporel Raffermissant ADN SOIE",
+  "prix": "23,00",
+  "image": "image.png",
+  "descriptif": "Ce soin corps, riche en ADN hp, hydrate*, régénère profondément la peau et la protège du vieillissement cutané. La peau est douce et satinée."
+},
+{
+  "id": 85,
+  "type": "produit",
+  "categorie": "Corps",
+  "titre": "STRILISS Soin Maternité",
+  "prix": "25,00",
+  "image": "image.png",
+  "descriptif": "Ce soin corps, concentré en actifs hyper protéinés et nourrissants permet à la peau de lutter contre l'apparition des stries pendant la grossesse, mais aussi de les atténuer après une grossesse ou une perte de poids mal contrôlée."
+},
+{
+  "id": 86,
+  "type": "produit",
+  "categorie": "Corps",
+  "titre": "SYNERGIE BUSTE Soin Lift Tenseur",
+  "prix": "47,20",
+  "image": "image.png",
+  "descriptif": "L'association du complexe tenseur hyper-protéiné et du Kigélia Africana raffermit la peau et redonne du galbe au buste. Spécifiquement conçu pour raffermir le buste et sublimer le décolleté, ce soin rend tonicité et fermeté à la peau."
+},
+{
+  "id": 87,
+  "type": "produit",
+  "categorie": "Corps",
+  "titre": "THÉ VERT Huile de Modelage",
+  "prix": "31,10",
+  "image": "image.png",
+  "descriptif": "Cette huile de massage soyeuse, spécialement formulée à partir d'huiles végétales et au doux parfum de Thé vert apaise et adoucit la peau."
+},
+{
+  "id": 88,
+  "type": "produit",
+  "categorie": "Coeur d'Épices",
+  "titre": "GOMMAGE CORPOREL",
+  "prix": "33,20",
+  "image": "image.png",
+  "descriptif": "Cet exfoliant aux grains de Bambou éliminent les cellules mortes et les impuretés. Stimulée et tonifiée, la peau retrouve douceur et souplesse."
+},
+{
+  "id": 89,
+  "type": "produit",
+  "categorie": "Coeur d'Épices",
+  "titre": "SOIN FERMETÉ",
+  "prix": "34,30",
+  "image": "image.png",
+  "descriptif": "Ce soin raffermissant et drainant est un concentré d’actifs naturels de Thé Vert, de Miel et d’Huiles végétales qui agissent en synergie pour déloger les surcharges lipidiques locales et raffermir l'épiderme."
+},
+{
+  "id": 90,
+  "type": "produit",
+  "categorie": "Coeur d'Épices",
+  "titre": "BAUME MINCEUR",
+  "prix": "39,90",
+  "image": "image.png",
+  "descriptif": "Ce soin détoxifiant agit sur les zones rebelles et l'aspect disgracieux des capitons. Les extraits de Guarana (concentré en Caféine) et de Thé vert, déstockent et favorisent la combustion des graisses."
+},
+{
+  "id": 91,
+  "type": "produit",
+  "categorie": "Coeur d'Épices",
+  "titre": "ÉPICES ÉMOI",
+  "prix": "35,20",
+  "image": "image.png",
+  "descriptif": "Ce gel d'huiles apporte confort et souplesse à la peau tout en la protégeant de la déshydratation. Riche en huiles végétales, il enveloppe le corps d'un voile de douceur au doux parfum épicé de Thé vert et de Noix de Muscade."
+},
+{
+  "id": 92,
+  "type": "produit",
+  "categorie": "PIERA",
+  "titre": "PURE Nettoyant Gel",
+  "prix": "25,00",
+  "image": "image.png",
+  "descriptif": "Formulé à partir de Lipoproétines, d'extrait d'Hamamélis et de Millepertuis, ce gel doux, sans paraben, nettoie et démaquille la peau en profondeur. Ses agents moussants apportent confort et douceur à la peau."
+},
+{
+  "id": 93,
+  "type": "produit",
+  "categorie": "PIERA",
+  "titre": "PURE Masque Gel",
+  "prix": "29,10",
+  "image": "image.png",
+  "descriptif": "Riche en extrait de fleurs de Calendula, de Sauge et de Camomille, ce masque gel apaise et adoucit les peaux réactives. Idéal pour décongestionner, la peau est fraîche et éclatante."
+},
+{
+  "id": 94,
+  "type": "produit",
+  "categorie": "PIERA",
+  "titre": "PURE Anti-rides",
+  "prix": "47,20",
+  "image": "image.png",
+  "descriptif": "Ce soin, anti-rides et anti-âge, concentré en Extrait de Prêle, Levure et Acide Hyaluronique, lutte efficacement contre les effets du temps."
+},
+{
+  "id": 95,
+  "type": "produit",
+  "categorie": "PIERA",
+  "titre": "PURE Adoucissant",
+  "prix": "42,20",
+  "image": "image.png",
+  "descriptif": "Riche en Beurre de Karité, en lait de fleurs de Lotus Sacré et en huile de Camélia, ce soin adoucit, assouplit et protège la peau. Chaque jour, la peau est douce et confortable."
+},
+{
+  "id": 96,
+  "type": "produit",
+  "categorie": "PIERA",
+  "titre": "PURE Hydratant",
+  "prix": "42,20",
+  "image": "image.png",
+  "descriptif": "Ce soin à l'assocation du Cassia Angustifolia, du complexe aminopeptidique et du Beurre de Karité permet à la peau de conserver l'eau qui lui est nécessaire. Il protège la peau de la déshydratation qui retrouve douceur et éclat."
+}
+]

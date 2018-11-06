@@ -7,8 +7,12 @@ app.config(function($routeProvider) {
         controller : "prodCtrl"
     })
     // navbar master
-    // .when("/service", {
-    //     templateUrl : "view/service.html",
-    //     controller : "prodCtrl"
-    // })
+    .when("/service", {
+        templateUrl : "view/service.html",
+        controller : "prodCtrl"
+    })
+    // navbar left
+    .when("/produits", {
+        templateUrl : "view/produits.html"
+    });
 });
