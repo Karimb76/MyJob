@@ -1,5 +1,12 @@
 /*FOOTER CSS*/
 /* modal */
+.container-fluid > div {
+  border: 0;
+}
+
+.tcolor {
+ color: #1b51b5;
+}
 
 .backcolor {
   background-color: #30ace7;
@@ -56,8 +63,15 @@ hr {
 /*Mise en forme paragraphe*/
 .ptext {
   text-align: left;
-  font-size: 0.8rem;
+  font-size: 0.65rem;
   margin-bottom: 0;
 }
+
+/* Item réseaux sociaux */
+.fab {
+  font-size: 2rem;
+  width: 3rem;
+}
+/* Fin item réseaux sociaux */
 
 /*FIN FOOTER CSS*/
