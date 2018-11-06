@@ -1,0 +1,63 @@
+/*FOOTER CSS*/
+/* modal */
+
+.backcolor {
+  background-color: #30ace7;
+  color: #ffffff;
+}
+
+/* modal button */
+
+.btnc {
+  color: #ffffff;
+}
+
+/*Couleur footer (back et police)*/
+.page-footer {
+  padding-top: 1.5rem;
+}
+
+.fcolor {
+  background-color: #282727;
+  color: #ffffff;
+}
+
+  a {
+  color: white;
+  text-decoration: none;
+}
+
+  a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+/*Radius bouton*/
+#btnrad {
+  border-radius: 10px;
+}
+.btncolor {
+  background-color: #ffffff;
+  color: black;
+}
+/*Maps Google*/
+/*Partie Social Media*/
+/*Couleur et forme transitions*/
+.tcolor {
+  background-color: #ffffff;
+}
+
+hr {
+	display: block;
+	margin-left: 400px;
+  margin-right: 400px;
+}
+
+/*Mise en forme paragraphe*/
+.ptext {
+  text-align: left;
+  font-size: 0.8rem;
+  margin-bottom: 0;
+}
+
+/*FIN FOOTER CSS*/
