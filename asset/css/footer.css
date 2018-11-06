@@ -25,17 +25,16 @@
 }
 
 .fcolor {
-  background-color: #282727;
+  background-color: #45539c;
   color: #ffffff;
 }
 
-  a {
+li  a {
   color: white;
-  text-decoration: none;
 }
 
   a:hover {
-  color: white;
+  color: #abdaf2;
   text-decoration: underline;
 }
 
