@@ -4,7 +4,7 @@
   </div>
   <div class="col-lg-8"> <!-- col de navigation -->
     <div class="row" ng-controller="prodCtrl"> <!-- debut row col 8 -->
-      <ul ng-repeat="article in articles | filter:{ 'type': 'produit'}">
+      <ul ng-repeat="article in articles | filter:{'type': 'produit'}">
          <li>{{article.titre}}</li>
          <li>{{article.categorie}} - {{article.descriptif}}</li>
          <li>{{article.prix}}</li>
