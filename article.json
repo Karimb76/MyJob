@@ -66,8 +66,7 @@
   "titre": "soin myperferct",
   "prix": "50,00",
   "image": "image.png",
-  "descriptif": "Laissez-vous séduire par les bienfaits du SOIN myPERFECT, spécifiquement conçu pour prendre soin des peaux à imperfections : brillance, grain de peau irrégulier, pores dilatés, points noirs...
-La pose du Masque Perfecteur à l’Huile Essentielle de Tea Tree affinant et régulateur de sébum procure une véritable sensation de fraîcheur grâce au Menthol.",
+  "descriptif": "Laissez-vous séduire par les bienfaits du SOIN myPERFECT, spécifiquement conçu pour prendre soin des peaux à imperfections : brillance, grain de peau irrégulier, pores dilatés, points noirs... <br /> La pose du Masque Perfecteur à l’Huile Essentielle de Tea Tree affinant et régulateur de sébum procure une véritable sensation de fraîcheur grâce au Menthol.",
   "temps": "1h"
 },
 {
@@ -77,8 +76,7 @@ La pose du Masque Perfecteur à l’Huile Essentielle de Tea Tree affinant et r�
   "titre": "Anti-âge CRYO-RESTRUCTUREL",
   "prix": "90,00",
   "image": "image.png",
-  "descriptif": "Profitez d'un soin unique et exclusif, hautement performant, avec le Programme Anti-âge CRYO RESTRUCTUREL. Véritable solution anti-âge alternative au Botox ou à la chirurgie esthétique, ce soin retarde le vieillissement de la peau.
-Du simple coup d'éclat au lifting biologique en passant par un anti-âge profond, l'association exceptionnelle de l'ADN hp et de l'Acide Hyaluronique (récompensée par le CNRS et l'ANVAR) diminue les rides profondes et lisse le grain de peau.",
+  "descriptif": "Profitez d'un soin unique et exclusif, hautement performant, avec le Programme Anti-âge CRYO RESTRUCTUREL. Véritable solution anti-âge alternative au Botox ou à la chirurgie esthétique, ce soin retarde le vieillissement de la peau.<br />Du simple coup d'éclat au lifting biologique en passant par un anti-âge profond, l'association exceptionnelle de l'ADN hp et de l'Acide Hyaluronique (récompensée par le CNRS et l'ANVAR) diminue les rides profondes et lisse le grain de peau.",
   "temps": "1h"
 },
 {
@@ -98,8 +96,7 @@ Du simple coup d'éclat au lifting biologique en passant par un anti-âge profon
   "titre": "soin minceur aux algues",
   "prix": "80,00",
   "image": "image.png",
-  "descriptif": "Profitez des bienfaits du SOIN MINCEUR AUX ALGUES, véritable soin minceur sur mesure aux différents modelages à la fois fermes et énergiques. Les algues laminaires enveloppe le corps pour l'embellir tout en apportant un véritable moment de relaxation.
-Ce protocole minceur va stimuler la microcirculation et déstocker les graisses permettant à votre corps de retrouver minceur et légèreté.",
+  "descriptif": "Profitez des bienfaits du SOIN MINCEUR AUX ALGUES, véritable soin minceur sur mesure aux différents modelages à la fois fermes et énergiques. Les algues laminaires enveloppe le corps pour l'embellir tout en apportant un véritable moment de relaxation.<br />Ce protocole minceur va stimuler la microcirculation et déstocker les graisses permettant à votre corps de retrouver minceur et légèreté.",
   "temps": "1h30"
 },
 {
@@ -119,8 +116,7 @@ Ce protocole minceur va stimuler la microcirculation et déstocker les graisses 
   "titre": "soin du buste",
   "prix": "45,00",
   "image": "image.png",
-  "descriptif": "Révélez la beauté du buste, symbole de votre féminité en lui apportant un soin attentif pour le tonifier et le galber.
-Le modelage raffermissant suivi de la pose d'un enveloppement aux algues riche en minéraux, tonifie, régénère et stimule les tissus de soutien.",
+  "descriptif": "Révélez la beauté du buste, symbole de votre féminité en lui apportant un soin attentif pour le tonifier et le galber.<br />Le modelage raffermissant suivi de la pose d'un enveloppement aux algues riche en minéraux, tonifie, régénère et stimule les tissus de soutien.",
   "temps": "1h"
 },
 {
@@ -362,8 +358,7 @@ Le modelage raffermissant suivi de la pose d'un enveloppement aux algues riche e
   "titre": " permanente et réhaussement de cils",
   "prix": "50,00",
   "image": "image.png",
-  "descriptif": "La permanente des cils est une technique qui vise à donner une jolie courbure aux cils pour ouvrir le regard tout en gardant un aspect naturel.
-Votre regard est sublimé pour environ 2 et 3 mois."
+  "descriptif": "La permanente des cils est une technique qui vise à donner une jolie courbure aux cils pour ouvrir le regard tout en gardant un aspect naturel.<br />Votre regard est sublimé pour environ 2 et 3 mois."
 },
 {
   "id": 39,
@@ -633,10 +628,7 @@ Votre regard est sublimé pour environ 2 et 3 mois."
   "titre": "KIT DÉMAQUILLANT CLEANSER",
   "prix": "40,00",
   "image": "image.png",
-  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.
-Ce kit contient :
-- 1 Démaquillant Doux Leapsal CLEANSER 400ml
-- 1 Démaquillant Doux Leapsal CLEANSER 400ml offert"
+  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.<br />Ce kit contient :<br />- 1 Démaquillant Doux Leapsal CLEANSER 400ml<br />- 1 Démaquillant Doux Leapsal CLEANSER 400ml offert"
 },
 {
   "id": 68,
@@ -645,10 +637,7 @@ Ce kit contient :
   "titre": "KIT DÉMAQUILLANT TONIC",
   "prix": "40,00",
   "image": "image.png",
-  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.
-Ce kit contient :
-- 1 Lotion Douce Leapsal TONIC 400ml
-- 1 Lotion Douce Leapsal TONIC 400ml offert"
+  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.<br />Ce kit contient :<br />- 1 Lotion Douce Leapsal TONIC 400ml<br />- 1 Lotion Douce Leapsal TONIC 400ml offert"
 },
 {
   "id": 69,
@@ -657,10 +646,7 @@ Ce kit contient :
   "titre": "KIT DÉMAQUILLANT CLEANSER et TONIC",
   "prix": "40,00",
   "image": "image.png",
-  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.
-Ce kit contient :
-- 1 Démaquillant Doux Leapsal CLEANSER 400ml
-- 1 Lotion Douce Leapsal TONIC 400ml offert"
+  "descriptif": "Ce duo démaquillant offre à la peau un démaquillage tout en douceur.<br />Ce kit contient :<br />- 1 Démaquillant Doux Leapsal CLEANSER 400ml<br />- 1 Lotion Douce Leapsal TONIC 400ml offert"
 },
 {
   "id": 70,
@@ -705,8 +691,7 @@ Ce kit contient :
   "titre": "IMPALPABLE Fond de Teint Sable",
   "prix": "21,60",
   "image": "image.png",
-  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.
-Nouvelle teinte :  Sable"
+  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.<br />Nouvelle teinte :  Sable"
 },
 {
   "id": 75,
@@ -715,8 +700,7 @@ Nouvelle teinte :  Sable"
   "titre": "IMPALPABLE Fond de Teint Naturel",
   "prix": "21,60",
   "image": "image.png",
-  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.
-Teinte numéro 2, Naturel"
+  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.<br />Teinte numéro 2, Naturel"
 },
 {
   "id": 76,
@@ -725,8 +709,7 @@ Teinte numéro 2, Naturel"
   "titre": "IMPALPABLE Fond de Teint Dune",
   "prix": "21,60",
   "image": "image.png",
-  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.
-Teinte numéro 3, Dune"
+  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.<br />Teinte numéro 3, Dune"
 },
 {
   "id": 77,
@@ -735,8 +718,7 @@ Teinte numéro 3, Dune"
   "titre": "IMPALPABLE Fond de Teint Ivoire",
   "prix": "21,60",
   "image": "image.png",
-  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.
-Teinte numéro 1, Ivoire"
+  "descriptif": "Formulé à partir de poudre matifiante, de Provitamine B5 et d'huiles Fluorées, ce fond de teint sublime et unifie le teint. Fini lisse et mat pour une peau zéro défaut tout au long de la journée.<br />Teinte numéro 1, Ivoire"
 },
 {
   "id": 78,
