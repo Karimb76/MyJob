@@ -6,8 +6,9 @@ app.config(function($routeProvider) {
         templateUrl : "view/produits.html"
     })
     // navbar master
-    .when("/produits", {
-        templateUrl : "view/produits.html"
+    .when("/service", {
+        templateUrl : "view/service.html",
+        controller : "prodCtrl"
     })
     // navbar left
     .when("/produits/pier-huge/", {
