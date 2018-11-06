@@ -44,7 +44,7 @@
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
               <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLongTitle">Prix total de {{prixTotalDuPanier()}}€ pour un total de {{nombreArticlesDuPanier()}} articles</h5>
+                <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
                 </button>
@@ -60,14 +60,14 @@
                   <div class="col-8 col-lg-8 col-xl-8 text-right" style="white-space: nowrap;min-width:72px;padding:0;">
                     <input type="button" class="buttonMoinQtPanier" value="<" style="display:inline;width:15px;padding:0;" />
                     <input type="text" min="1" max="99" name="quantite" value="{{itemArticle.qt}}" style="width:40px;text-align:center;" />
-                    <input type="button" class="buttonPlusQtPanier" value=">" style="display:inline;width:15px;padding:0;" />
+                    <input type="button" class="buttonPlusQtPanier" value="> " style="display:inline;width:15px;padding:0;" />
                   </div>
                   <div class="col-3 text-right">
                     <div class="price">
                       {{itemArticle.price}}
                     </div>
                     <div class="">
-                      <a href="#" data-ng-click="supprimerDuPanier($index)" class="supprimerProduit">Supprimer</a>
+                      <a href="#" class="supprimerProduit">Supprimer</a>
                     </div>
                   </div>
                 </div><!--item panier -->
@@ -151,7 +151,7 @@
   <script src="asset/js/angularjs/angular-route.js"></script>
   <script src="asset/js/jquery/jquery-3.3.1.min.js"></script>
   <script src="asset/js/bootstrap/popper.min.js"></script>
-  <script src="asset/js/bootstrap/bootstrap.min.js"></script>
+  <script src="asset/js/bootstrap//bootstrap.min.js"></script>
   <script src="app/route.js"></script>
   <script src="app/panier.js"></script>
   <script src="app/article.js"></script>
