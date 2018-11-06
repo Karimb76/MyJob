@@ -10,6 +10,7 @@
       <div class="row" ng-controller="prodCtrl"> <!-- debut row col 8 -->
         <ul ng-repeat="article in articles | filter:{'type': 'service'}  | filter:{'categorie': cat}">
           <li>{{article.titre}}</li>
+          <li><img src="asset/image/{{article.image}}" /></li>
           <li>{{article.categorie}} - {{article.descriptif}}</li>
           <li>{{article.prix}} {{article.temps}}</li>
         </ul>
