@@ -9,10 +9,33 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
   <link rel="stylesheet" href="asset/css/bootstrap/bootstrap.min.css" />
   <link rel="stylesheet" href="asset/css/master.css" />
+  <link rel="stylesheet" href="asset/css/navbar-master.css">
   <link rel="stylesheet" href="asset/css/panier.css" />
   <link rel="stylesheet" href="asset/css/footer.css" />
 </head>
 <body ng-app="myApp">
+  <div class="wrapper">
+    <header>
+      <nav>
+        <div class="menu-icon">
+          <i class="fa fa-bars fa-2x"></i>
+        </div>
+        <div class="logo"><a>Kallisté</a></div>
+        <div class="logo"><a>Kallisté <i class="fas fa-spa"></i></a></div>
+        <div class="menu">
+          <ul>
+            <li><a href="#">Produits</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#" dat-toggle="modal" data-target="#exampleModal">Panier</a></li>
+
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <div class="content">
+      <p>Bienvenue sur le site de votre institut de beauté. Ici vous pourrez commander les produits et les soins de vos choix en amont. Plus besoin de passer des appels ou de venir en magasin faites tout à partir de chez vous.</p>
+    </div>
+  </div>
   <main class="container-fluid">
     <div class="row">
       <div class="col-12">
@@ -132,5 +155,6 @@
   <script src="app/route.js"></script>
   <script src="app/panier.js"></script>
   <script src="app/article.js"></script>
+  <script src="asset/js/navbar-master.js"></script>
 </body>
 </html>
