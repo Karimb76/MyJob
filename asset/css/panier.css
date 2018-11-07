@@ -10,7 +10,9 @@ color: #FFF;
 .panier-vide-non-vide {
 display: none;
 }
-
+input[type=button]:hover{
+    background-color: #ded6d6;
+}
 /* modification des couleurs */
 .modal-content {
 background-color: #1c314c;
