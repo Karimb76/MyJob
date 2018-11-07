@@ -7,7 +7,7 @@
     </div>
   </div>
   <div class="col-lg-8"> <!-- col de navigation -->
-    <div class="row cards" ng-repeat="article in articles | filter:{'id': id}"> <!-- debut row col 8 -->
+    <div class="row cards" ng-repeat="article in articles" ng-if="article.id==id"> <!-- debut row col 8 -->
       <div class="card">
         <img src="asset/image/{{article.image}}">
         <div class="card-title">
@@ -16,7 +16,7 @@
             <span class="right"></span>
           </a>
           <h2>{{article.titre}}
-                    <small>{{article.prix}} - {{article.temps}}</small>
+                    <small>{{article.prix}} {{article.temps}}</small>
                   </h2>
         </div>
         <div class="card-flap flap1">
