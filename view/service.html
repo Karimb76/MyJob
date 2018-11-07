@@ -7,13 +7,24 @@
     </div>
   </div>
   <div class="col-lg-8"> <!-- col de navigation -->
-    <div class="row"> <!-- debut row col 8 -->
-      <ul ng-repeat="article in articles | filter:{'id': id}">
-        <li>{{article.titre}}</li>
-        <li><img src="asset/image/{{article.image}}" /></li>
-        <li>{{article.categorie}} - {{article.descriptif}}</li>
-        <li>{{article.prix}} {{article.temps}}</li>
-      </ul>
-    </div>
-  </div><!-- fin row col 8 -->
+    <div class="row cards" ng-repeat="article in articles | filter:{'id': id}"> <!-- debut row col 8 -->
+      <div class="card">
+        <img src="asset/image/{{article.image}}">
+        <div class="card-title">
+          <h2><a href="#!/produit/{{article.id}}">{{article.titre}}</a>
+            <p><small>{{article.prix}}  {{article.temps}}</small></p>
+          </h2>
+        </div>
+        <div class="card-flap flap1">
+          <div class="card-description">
+            <div>{{article.categorie}}</div><div>{{article.descriptif}}</div>
+          </div>
+          <div class="card-flap flap2">
+            <div class="card-actions">
+              <a href="#!/produit/{{article.id}}" class="btn">En voir plus</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- fin row col 8 -->
 </div> <!-- fin premier row -->
