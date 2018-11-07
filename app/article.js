@@ -11,11 +11,9 @@ app.controller('prodCtrl', function($scope, $http, $routeParams) {
   var valueOld ;
   $scope.noDuplicate=function(value){
     if (value == valueOld)  {
-      console.log(true)
       return true;
     }
     valueOld = value
-    console.log(false)
 
     return false;
   }

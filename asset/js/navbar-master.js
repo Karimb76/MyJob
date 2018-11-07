@@ -15,3 +15,10 @@ $(window).on("scroll", function() {
   }
 });
 // fin de la navbar
+
+//popover
+$(function () {
+  $('.example-popover').popover({
+    container: 'body'
+  })
+})
