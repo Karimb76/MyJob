@@ -24,11 +24,13 @@ app.controller('panierCtrl', function($scope, $rootScope, $filter) {
     itemArticle.qt = itemArticle.qt -1;
   }
   $rootScope.ajouterAuPanier = function(idProduit, titreProduit, prixproduit){
+
     if($rootScope.referenceExist(idProduit) !== false){
-      var newQt = $rootScope.referenceExist(idProduit).qt + 1;
+      var newQt = Number($rootScope.referenceExist(idProduit).qt) + 1;
       $rootScope.modifierQTProduitPanier(idProduit, newQt);
     }else{
-      $rootScope.panier.push({idProduit: idProduit, title: titreProduit, qt: 1, price: prixproduit});
+      var prixproduit = prixproduit.replace(",", ".");
+      $rootScope.panier.push({idProduit: idProduit, title: titreProduit, qt: 1, price: Number(prixproduit)});
     }
   }
 
@@ -52,16 +54,16 @@ app.controller('panierCtrl', function($scope, $rootScope, $filter) {
     }
     return total;
   }
-  $rootScope.ajouterAuPanier(1, "titre du produit 1", 11.00);
-  $rootScope.ajouterAuPanier(1, "titre du produit 1", 11.00);
-  $rootScope.ajouterAuPanier(2, "titre du produit 3", 11.00);
-  $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
-  $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
-  $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
-  $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
-  $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
-  $rootScope.ajouterAuPanier(5, "titre du produit 5", 11.00);
-  $rootScope.ajouterAuPanier(6, "titre du produit 6", 11.00);
-  $rootScope.ajouterAuPanier(6, "titre du produit 6", 11.00);
-  $rootScope.ajouterAuPanier(7, "titre du produit 7", 11.00);
+  // $rootScope.ajouterAuPanier(1, "titre du produit 1", 11.00);
+  // $rootScope.ajouterAuPanier(1, "titre du produit 1", 11.00);
+  // $rootScope.ajouterAuPanier(2, "titre du produit 3", 11.00);
+  // $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
+  // $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
+  // $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
+  // $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
+  // $rootScope.ajouterAuPanier(4, "titre du produit 4", 11.00);
+  // $rootScope.ajouterAuPanier(5, "titre du produit 5", 11.00);
+  // $rootScope.ajouterAuPanier(6, "titre du produit 6", 11.00);
+  // $rootScope.ajouterAuPanier(6, "titre du produit 6", 11.00);
+  // $rootScope.ajouterAuPanier(7, "titre du produit 7", 11.00);
 });

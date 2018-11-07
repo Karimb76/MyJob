@@ -45,7 +45,7 @@
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
               <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLongTitle">Prix total de {{prixTotalDuPanier()}}€ pour un total de {{nombreArticlesDuPanier()}} articles</h5>
+                <h5 class="modal-title" id="exampleModalLongTitle">Prix total de {{prixTotalDuPanier()  | number : 2}}€ pour un total de {{nombreArticlesDuPanier()}} articles</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
                 </button>
@@ -65,7 +65,7 @@
                   </div>
                   <div class="col-3 text-right">
                     <div class="price">
-                      {{itemArticle.price*itemArticle.qt}}
+                      {{itemArticle.price*itemArticle.qt | number : 2}}
                     </div>
                     <div class="">
                       <a href="#" data-ng-click="supprimerDuPanier($index)" class="supprimerProduit">Supprimer</a>
