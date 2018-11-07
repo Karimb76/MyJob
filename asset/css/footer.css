@@ -9,7 +9,7 @@
 }
 
 .black-text {
-color: black; 
+color: black;
 }
 .backcolor {
   background-color: #30ace7;
@@ -38,16 +38,7 @@ color: black;
 
   a:hover {
   color: #abdaf2;
-  text-decoration: underline;
-}
-
-/*Radius bouton*/
-#btnrad {
-  border-radius: 10px;
-}
-.btncolor {
-  background-color: #ffffff;
-  color: black;
+  text-decoration: none;
 }
 /*Maps Google*/
 /*Partie Social Media*/
