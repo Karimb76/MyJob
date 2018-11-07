@@ -6,6 +6,32 @@
       </ul>
     </div>
   </div>
+  <div class="col-md-4"><!-- col de navigation -->
+      <div class="card mb" ng-repeat="article in articles | filter:{'type': 'service'} | filter:{'categorie': cat}"> <!-- debut row col 8 -->
+        <div class="card-body mb">
+          <img src="asset/image/{{article.image}}">
+          <div class="card-title">
+
+            <h2>{{article.titre}}
+            <small>{{article.prix}} {{article.temps}}</small>
+            </h2>
+              </div>
+
+          <div class="card-flap flap1">
+            <div class="card-description">
+  {{article.categorie}} - {{article.descriptif}}
+            </div>
+            <div class="card-flap flap2">
+              <div class="card-actions">
+                <a ng-click="ajouterAuPanier(article.id, article.titre, article.prix)" class="btn btn-primary mb">Ajouter au Panier</button></a>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div><!-- fin row col 8 -->
+  <!-- fin row col 8 -->
+  </div> <!-- fin premier row -->
+</div>
   <div class="col-lg-8"> <!-- col de navigation -->
     <div class="row cards" ng-repeat="article in articles | filter:{'type': 'service'} | filter:{'categorie': cat}"> <!-- debut row col 8 -->
       <div class="card">
