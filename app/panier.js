@@ -8,6 +8,10 @@ app.controller('panierCtrl', function($scope, $rootScope, $filter) {
     return false;
   }
   $rootScope.modifierQTProduitPanier = function(idProduit, qtProduit){
+    if(qtProduit <= 0){
+      $rootScope.supprimerDuPanier(idProduit);
+      return false;
+    }
     var n = $rootScope.panier.length;
     for( var i=0; i <n ; i++){
       if( $rootScope.panier[i].idProduit == idProduit ){
@@ -22,6 +26,9 @@ app.controller('panierCtrl', function($scope, $rootScope, $filter) {
   }
   $rootScope.produitPanierQuantiteMoins = function(itemArticle){
     itemArticle.qt = itemArticle.qt -1;
+    if(itemArticle.qt <= 0){
+      $rootScope.supprimerDuPanier(itemArticle.id);
+    }
   }
   $rootScope.ajouterAuPanier = function(idProduit, titreProduit, prixproduit){
 
